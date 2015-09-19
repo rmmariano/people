@@ -1,0 +1,11 @@
+# backup and log files and compiled sources
+*.pyc
+*.bak
+*.*~
+*.log
+*.swp
+*.table
+errors/*
+databases/*
+sessions/*
+__pycache__/*
