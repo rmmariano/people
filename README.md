@@ -1,5 +1,5 @@
 ## People
 
-This is a copy of <> that I use to study.
+This is a copy of https://github.com/viniciusban/web2py.test that I use to study.
 
-Original created by <>.
+Original created by Vinicius Assef.
